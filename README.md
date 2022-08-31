@@ -1,40 +1,97 @@
-Hi 👋 My name is Çağla Öztürk
-=============================
+# Hey 👋, I'm Çağla!.
 
-Frontend Developer
-------------------
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:0caglaozturk@gmail.com)](mailto:0caglaozturk@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/ozturkcaglaaa/)](https://www.instagram.com/ozturkcaglaaa/)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/caglaozturk)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ozturkcagla/)](https://www.linkedin.com/in/ozturkcagla/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=caglaozturk)
 
-Angular, VueJs
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-### Skills
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-</p>
+I graduated from Karabuk University Computer Engineering in 2018. Php, MySql, Git, Pure Js and jQuery are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing and backend development**
+- 🌱 I’m currently learning ...
+  - Vue js
+  - Angular js
+  - Node js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🏋‍♀️ do exercise, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 💬 Reach out to me at: <a href="https://www.linkedin.com/in/ozturkcagla/">my linkedin profile</a>
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/caglaozturk/pevn-project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglaozturk&repo=pevn-project" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/caglaozturk/Blog.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglaozturk&repo=Blog" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 
-### Socials
+## 🧐 About
 
-<p align="left"> <a href="https://www.github.com/caglaozturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ozturkcaglaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ozturkcagla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/caglaozturk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+- 📬 How to reach me: 0caglaozturk@gmail.com
+- 🌱 Languages and Tools:
 
-### Badges
+    <div>
+        <code>
+        <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5" alt="HTML5" title="HTML5" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=229EEB" alt="CSS3" title="CSS3" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript" alt="JavaScript" title="JavaScript" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap" title="Bootstrap" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass" alt="Sass" title="Sass" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL" alt="MySQL" title="MySQL" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Php-282C34?logo=php" alt="Php" title="Php" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel" alt="Laravel" title="Laravel" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js" alt="Node.js" title="Node.js" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js" title="Vue.js" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Angular-282C34?logo=Angular&logoColor=B13538" alt="Angular" title="Angular" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Elementary-282C34?logo=Elementary" alt="Elementary" title="Elementary" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=VisualStudioCode&logoColor=229EEB" alt="VisualStudioCode" title="VisualStudioCode" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab" alt="GitLab" title="GitLab" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/StackOverflow-282C34?logo=StackOverflow" alt="StackOverflow" title="StackOverflow" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub" alt="GitHub" title="GitHub" height="25" />
+        </code>
+    </div>
+    <div>
+    </div>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/caglaozturk"><img src="https://github-readme-stats.vercel.app/api?username=caglaozturk&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="caglaozturk's GitHub stats" /></a>
-
-<a href="http://www.github.com/caglaozturk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caglaozturk&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/caglaozturk"><img src="https://activity-graph.herokuapp.com/graph?username=caglaozturk&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/caglaozturk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglaozturk&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglaozturk&langs_count=12&layout=compact)
+---------------------------------------------------------------------------------------------------------------------
